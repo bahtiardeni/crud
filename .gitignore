@@ -82,8 +82,6 @@ public/mobile/__manifest.json
 public/mobile/index.html
 __manifest.json
 
-application/config/config.php
-application/config/database.php
 application/controllers/Test*.php
 application/controllers/Test.php
 public/files/
